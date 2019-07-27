@@ -6,4 +6,11 @@ My first Jupyter notebook  'Introduction to Machine Learning' where I explained 
 
 In folder 'Logistic Regression' are projects where I use logistic regression for Machine learning to do classification predictions based on labeled data.
 
-In folder 'CSV Files' I will put all csv files which I used in projects so that you can download it
+In folder 'CSV Files' I will put all csv files which I used in projects so that you can download it.<br>
+
+Python libraries which I'm using :
+
+* Pandas
+* Numpy
+* Seaborn
+* scikit-learn
