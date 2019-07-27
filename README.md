@@ -19,4 +19,10 @@ Python libraries which I'm using :
 ## Pandas <br>
 
 Pandas is a high-level data manipulation tool developed by Wes McKinney. It is built on the Numpy package and its key data structure is called the DataFrame. DataFrames allow you to store and manipulate tabular data in rows of observations and columns of variables.<br>
-Link https://pandas.pydata.org/
+Link --> https://pandas.pydata.org/
+<br><br>
+
+## Numpy <br>
+
+NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays.<br>
+It is the fundamental package for scientific computing with Python. 
